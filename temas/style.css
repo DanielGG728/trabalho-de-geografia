@@ -118,6 +118,14 @@ a:hover {
     text-align: center;
 }
 
+h3,
+h4,
+h1,
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 bb {
     color: rgb(189, 171, 255);
     font-weight: bolder;
